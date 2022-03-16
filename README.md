@@ -59,6 +59,8 @@ $ git commit -m "añadido 2.txt"
  2 files changed, 1 insertion(+)
  create mode 100644 2.txt
  create mode 100644 Fichero1.txt
+ 
+ 
 
 
 
