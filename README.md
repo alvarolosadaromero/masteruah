@@ -144,4 +144,9 @@ git list
 
 ![image](https://user-images.githubusercontent.com/99832565/158630666-607a14fa-a89e-4806-a416-5d24657ed7d5.png)
 
+|        NOMBRE          |                     GITHUB                        |
+|------------------------|---------------------------------------------------|
+| Ignacio Javier         | [enlace a github 1](https://github.com/IgnacioJavier/masteruah) |
+
+
 
